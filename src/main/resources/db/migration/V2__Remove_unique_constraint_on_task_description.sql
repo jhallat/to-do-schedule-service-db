@@ -1,0 +1,2 @@
+ALTER TABLE scheduled_task
+DROP CONSTRAINT scheduled_task_task_description_key;
